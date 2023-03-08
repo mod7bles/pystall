@@ -23,7 +23,7 @@ perl
 
 To use PyStall, run the `tkin.py` script:
 
-python pystall.py
+python tkin.py
 
 (but there is an EXE form in the build folder) 
 
