@@ -25,7 +25,7 @@ To use PyStall, run the `tkin.py` script:
 
 python tkin.py
 
-(but there is an EXE form in the build folder) 
+(but there is an EXE form in the dist folder) 
 
 vbnet
 
